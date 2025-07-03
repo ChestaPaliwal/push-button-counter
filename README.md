@@ -28,10 +28,6 @@ Each button press increases the count and displays:
 - On Serial Monitor: `Button Pressed Count: 1`, `2`, `3`, ...
 - On LCD: Line 1 → "Button Count:", Line 2 → Number
 
-## 📸 Circuit Diagram
-> *(Add the image you generated or draw and upload a clean circuit diagram here)*
-
----
 
 ## 📤 How to Run
 1. Upload code to Arduino Uno using Arduino IDE.
